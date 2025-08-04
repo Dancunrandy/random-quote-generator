@@ -9,7 +9,7 @@ function generateQuote(): void {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const quoteElement = document.getElementById('quote');
     if (quoteElement instanceof HTMLElement) {
-        quoteElement.textContent = quotes[randomIndex];
+        quoteElement.textContent = quotes[randomIndex] ?? null; // Fallback to null if undefined
     } else {
         console.warn('Element with ID "quote" not found or is not an HTMLElement');
     }

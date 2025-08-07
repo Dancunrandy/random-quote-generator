@@ -141,7 +141,7 @@ The project was tested by peers at **Moringa School** who were able to:
 
 ---
 
-## 📚 Bonus: TypeScript vs. React Comparison
+## 📚 TypeScript vs. React Comparison
 
 | Feature        | TypeScript                | React.js                              |
 | -------------- | ------------------------- | ------------------------------------- |
@@ -154,7 +154,7 @@ The project was tested by peers at **Moringa School** who were able to:
 
 ## 👨‍💻 Created By
 
-Daniel Randy
+Daniel Mutie
 For: **Moringa School AI Capstone Project**
 🗓️ August 4–8, 2025
 
